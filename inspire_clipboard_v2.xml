@@ -1,0 +1,3658 @@
+<GMC_Clipboard Version="1.0">
+  <Objects>
+    <Object Type="Text" Name="Import_1" X="12.32" Y="9.76" Width="2.88" Height="5.76" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Form</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_2" X="15.24" Y="7.27" Width="19.00" Height="10.17" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="24.0" Color="Black">1040 </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_3" X="105.10" Y="8.27" Width="8.92" Height="8.90" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="20.0" Color="Black">20</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_4" X="114.02" Y="8.54" Width="9.42" Height="8.36" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="20.0" Color="Black">25</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_5" X="34.42" Y="11.65" Width="65.69" Height="5.01" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="12.0" Color="Black">U.S. Individual Income Tax Return </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_6" X="34.42" Y="9.04" Width="52.13" Height="2.47" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="6.0" Color="Black">Department of the Treasury—Internal Revenue Service </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_7" X="125.67" Y="13.17" Width="22.92" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">OMB No. 1545-0074</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_8" X="152.43" Y="13.60" Width="48.72" Height="2.47" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="6.0" Color="Black">IRS Use Only—Do not write or staple in this space. </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_9" X="12.70" Y="17.58" Width="67.87" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">For the year Jan. 1–Dec. 31, 2025, or other tax year beginning </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_10" X="112.26" Y="17.58" Width="16.42" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">, 2025, ending </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_11" X="160.69" Y="17.58" Width="4.80" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">, 20 </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_12" X="174.09" Y="17.58" Width="28.72" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">See separate instructions.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_13" X="16.37" Y="21.95" Width="36.94" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="6.8" Color="Black">Filed pursuant to section 301.9100-2</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_14" X="58.41" Y="21.95" Width="14.86" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Combat zone</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_15" X="135.86" Y="21.95" Width="10.84" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="6.9" Color="Black">Deceased</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_16" X="146.70" Y="21.95" Width="0.94" Height="2.91" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_17" X="147.64" Y="21.99" Width="7.73" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">MM     </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_18" X="155.37" Y="21.99" Width="0.34" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="4.9" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_19" X="155.72" Y="21.99" Width="6.91" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">DD     </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_20" X="162.62" Y="21.99" Width="0.34" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="4.9" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_21" X="162.97" Y="21.99" Width="6.40" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">YYYY</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_22" X="153.07" Y="21.99" Width="0.82" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">/</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_23" X="160.69" Y="21.99" Width="0.82" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">/</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_24" X="171.38" Y="21.99" Width="8.41" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Spouse</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_25" X="179.79" Y="21.99" Width="0.86" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_26" X="180.65" Y="21.99" Width="7.73" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">MM     </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_27" X="188.39" Y="21.99" Width="0.34" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="4.9" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_28" X="188.73" Y="21.99" Width="6.91" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">DD     </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_29" X="195.64" Y="21.99" Width="0.34" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="4.9" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_30" X="195.98" Y="21.99" Width="6.40" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">YYYY</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_31" X="186.08" Y="21.99" Width="0.82" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">/</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_32" X="193.70" Y="21.99" Width="0.82" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">/</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_33" X="16.37" Y="26.18" Width="6.17" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Other</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_34" X="12.70" Y="30.10" Width="36.86" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Your first name and middle initial </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_35" X="90.29" Y="30.10" Width="12.21" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Last name </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_36" X="166.47" Y="30.04" Width="33.69" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Your social security number </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_37" X="12.70" Y="38.56" Width="56.20" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">If joint return, spouse’s first name and middle initial</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_38" X="90.29" Y="38.56" Width="12.21" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Last name </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_39" X="166.47" Y="38.51" Width="37.21" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="6.9" Color="Black">Spouse’s social security number </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_40" X="12.70" Y="47.03" Width="84.33" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Home address (number and street). If you have a P.O. box, see instructions. </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_41" X="148.70" Y="47.03" Width="9.38" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Apt. no. </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_42" X="12.70" Y="55.49" Width="94.56" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">City, town, or post office. If you have a foreign address, also complete spaces below. </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_43" X="118.23" Y="55.49" Width="5.81" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">State</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_44" X="141.08" Y="55.49" Width="9.97" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">ZIP code</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_45" X="12.70" Y="63.96" Width="51.60" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Foreign country name                                        </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_46" X="80.13" Y="63.96" Width="85.00" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Foreign province/state/county                                       Foreign postal code   </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_47" X="165.77" Y="46.69" Width="37.18" Height="2.82" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Check here if your main home, and your </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_48" X="165.77" Y="49.33" Width="34.81" Height="2.82" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">spouse’s if filing a joint return, was in </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_49" X="165.77" Y="51.98" Width="32.96" Height="2.82" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">the U.S. for more than half of 2025. </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_50" X="166.67" Y="55.06" Width="34.87" Height="3.34" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Presidential Election Campaign</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_51" X="165.77" Y="58.10" Width="37.78" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Check here if you, or your spouse </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_52" X="165.77" Y="60.57" Width="34.30" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">if filing jointly, want $3 to go to </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_53" X="165.77" Y="63.04" Width="36.14" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">this fund. Checking a box below </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_54" X="165.77" Y="65.51" Width="37.50" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">will not change your tax or refund.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_55" X="173.95" Y="68.48" Width="5.31" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">You </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_56" X="189.19" Y="68.48" Width="9.51" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Spouse </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_57" X="12.70" Y="72.54" Width="17.49" Height="4.18" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="10.0" Color="Black">Filing Status</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_58" X="12.70" Y="78.42" Width="13.72" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Check only  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_59" X="12.70" Y="81.15" Width="10.33" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">one box. </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_60" X="38.80" Y="72.69" Width="8.57" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Single </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_61" X="38.80" Y="76.92" Width="62.87" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Married filing jointly (even if only one had income) </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_62" X="38.80" Y="81.15" Width="74.46" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Married filing separately (MFS). Enter spouse’s SSN above </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_63" X="38.80" Y="85.03" Width="24.10" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">and full name here:</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_64" X="127.68" Y="72.69" Width="32.40" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Head of household (HOH)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_65" X="127.68" Y="76.92" Width="42.54" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Qualifying surviving spouse (QSS)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_66" X="127.68" Y="80.48" Width="76.05" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">If you checked the HOH or QSS box, enter the child’s name </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_67" X="127.68" Y="83.48" Width="71.76" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">if the qualifying person is a child but not your dependent:</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_68" X="38.80" Y="90.94" Width="161.49" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">If treating a nonresident alien or dual-status alien spouse as a U.S. resident for the entire tax year, check the box and enter their </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_69" X="38.80" Y="94.56" Width="70.19" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">name (see instructions and attach statement if required):</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_70" X="12.70" Y="98.94" Width="19.25" Height="4.18" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="10.0" Color="Black">Digital Assets</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_71" X="34.42" Y="98.37" Width="145.19" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">At any time during 2025, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell, </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_72" X="34.43" Y="101.19" Width="136.80" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">exchange, or otherwise dispose of a digital asset (or a financial interest in a digital asset)? (See instructions.) </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_73" X="173.53" Y="101.19" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_74" X="177.77" Y="101.19" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_75" X="186.65" Y="101.02" Width="5.80" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Yes </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_76" X="199.35" Y="101.02" Width="3.81" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">No</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_77" X="12.70" Y="105.29" Width="16.59" Height="4.18" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="10.0" Color="Black">Dependents</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_78" X="12.70" Y="110.20" Width="18.66" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(see instructions)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_79" X="12.70" Y="115.76" Width="9.02" Height="3.08" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.5" Color="Black">If more </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_80" X="12.70" Y="118.67" Width="11.32" Height="3.08" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.5" Color="Black">than four </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_81" X="12.70" Y="121.58" Width="15.54" Height="3.08" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.5" Color="Black">dependents, </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_82" X="12.70" Y="124.49" Width="19.04" Height="3.08" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.5" Color="Black">see instructions </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_83" X="12.70" Y="127.40" Width="13.04" Height="3.08" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.5" Color="Black">and check </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_84" X="12.70" Y="130.31" Width="5.93" Height="3.08" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.5" Color="Black">here </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_85" X="21.16" Y="130.31" Width="0.74" Height="3.08" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.5" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_86" X="25.39" Y="130.31" Width="0.74" Height="3.08" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.5" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_87" X="62.36" Y="105.34" Width="14.95" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Dependent 1</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_88" X="100.45" Y="105.34" Width="14.95" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Dependent 2</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_89" X="138.54" Y="105.34" Width="14.95" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Dependent 3</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_90" X="176.63" Y="105.34" Width="14.95" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Dependent 4</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_91" X="33.01" Y="109.44" Width="3.52" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(1) </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_92" X="36.53" Y="109.50" Width="11.62" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">First name</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_93" X="33.01" Y="113.67" Width="2.83" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(2)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_94" X="35.85" Y="113.73" Width="12.21" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black"> Last name</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_95" X="33.01" Y="117.90" Width="3.52" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(3) </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_96" X="36.53" Y="117.96" Width="4.98" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">SSN</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_97" X="33.01" Y="122.14" Width="3.52" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(4) </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_98" X="36.53" Y="122.19" Width="13.49" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Relationship</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_99" X="33.01" Y="126.03" Width="2.83" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(5)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_100" X="35.85" Y="126.08" Width="0.69" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_101" X="36.53" Y="126.08" Width="13.66" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="6.8" Color="Black">Check if lived</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_102" X="50.19" Y="126.08" Width="0.69" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_103" X="33.01" Y="128.64" Width="16.32" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">with you more </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_104" X="33.01" Y="131.20" Width="17.21" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="6.9" Color="Black">than half of 2025</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_105" X="54.82" Y="126.68" Width="2.88" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(a)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_106" X="63.84" Y="126.74" Width="4.16" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Yes</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_107" X="54.73" Y="130.91" Width="2.97" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(b)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_108" X="63.84" Y="130.97" Width="16.65" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">And in the U.S.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_109" X="92.91" Y="126.68" Width="2.88" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(a)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_110" X="101.93" Y="126.74" Width="4.16" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Yes</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_111" X="92.82" Y="130.91" Width="2.97" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(b)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_112" X="101.93" Y="130.97" Width="16.65" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">And in the U.S.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_113" X="131.01" Y="126.68" Width="2.88" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(a)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_114" X="140.02" Y="126.74" Width="4.16" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Yes</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_115" X="130.91" Y="130.91" Width="2.97" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(b)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_116" X="140.02" Y="130.97" Width="16.65" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">And in the U.S.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_117" X="169.10" Y="126.68" Width="2.88" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(a)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_118" X="178.11" Y="126.74" Width="4.16" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Yes</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_119" X="169.01" Y="130.91" Width="2.97" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(b)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_120" X="178.11" Y="130.97" Width="16.65" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">And in the U.S.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_121" X="33.01" Y="134.83" Width="2.83" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(6)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_122" X="35.85" Y="134.89" Width="9.74" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black"> Check if</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_123" X="56.29" Y="134.50" Width="10.29" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Full-time </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_124" X="56.29" Y="136.61" Width="8.33" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">student</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_125" X="74.07" Y="134.50" Width="14.50" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Permanently </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_126" X="74.07" Y="136.61" Width="12.16" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">and totally </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_127" X="74.07" Y="138.73" Width="9.37" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">disabled</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_128" X="94.38" Y="134.50" Width="10.29" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Full-time </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_129" X="94.38" Y="136.61" Width="8.33" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">student</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_130" X="112.16" Y="134.50" Width="14.50" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Permanently </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_131" X="112.16" Y="136.61" Width="12.16" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">and totally </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_132" X="112.16" Y="138.73" Width="9.37" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">disabled</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_133" X="132.47" Y="134.50" Width="10.29" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Full-time </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_134" X="132.47" Y="136.61" Width="8.33" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">student</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_135" X="150.25" Y="134.50" Width="14.50" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Permanently </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_136" X="150.25" Y="136.61" Width="12.16" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">and totally </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_137" X="150.25" Y="138.73" Width="9.37" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">disabled</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_138" X="170.57" Y="134.50" Width="10.29" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Full-time </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_139" X="170.57" Y="136.61" Width="8.33" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">student</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_140" X="188.34" Y="134.50" Width="14.50" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Permanently </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_141" X="188.34" Y="136.61" Width="12.16" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">and totally </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_142" X="188.34" Y="138.73" Width="9.37" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">disabled</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_143" X="33.01" Y="142.24" Width="2.83" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(7)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_144" X="35.85" Y="142.30" Width="8.64" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black"> Credits</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_145" X="56.29" Y="141.90" Width="10.47" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Child tax </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_146" X="56.29" Y="144.02" Width="6.26" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">credit</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_147" X="74.07" Y="141.90" Width="11.06" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Credit for </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_148" X="74.07" Y="144.02" Width="6.40" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">other </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_149" X="74.07" Y="146.13" Width="13.13" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">dependents</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_150" X="94.38" Y="141.90" Width="10.47" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Child tax </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_151" X="94.38" Y="144.02" Width="6.26" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">credit</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_152" X="112.16" Y="141.90" Width="11.06" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Credit for </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_153" X="112.16" Y="144.02" Width="6.40" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">other </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_154" X="112.16" Y="146.13" Width="13.13" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">dependents</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_155" X="132.47" Y="141.90" Width="10.47" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Child tax </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_156" X="132.47" Y="144.02" Width="6.26" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">credit</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_157" X="150.25" Y="141.90" Width="11.06" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Credit for </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_158" X="150.25" Y="144.02" Width="6.40" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">other </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_159" X="150.25" Y="146.13" Width="13.13" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">dependents</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_160" X="170.57" Y="141.90" Width="10.47" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Child tax </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_161" X="170.57" Y="144.02" Width="6.26" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">credit</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_162" X="188.34" Y="141.90" Width="11.06" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Credit for </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_163" X="188.34" Y="144.02" Width="6.40" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">other </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_164" X="188.34" Y="146.13" Width="13.13" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">dependents</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_165" X="38.09" Y="149.38" Width="160.29" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Check if your filing status is MFS or HOH and you lived apart from your spouse for the last 6 months of 2025, or you are legally </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_166" X="38.09" Y="152.28" Width="164.15" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">separated according to your state law under a written separation agreement or a decree of separate maintenance and you did not </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_167" X="38.09" Y="155.19" Width="78.87" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">live in the same household as your spouse at the end of 2025. </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_168" X="12.70" Y="159.17" Width="12.27" Height="4.60" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="11.0" Color="Black">Income </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_169" X="12.70" Y="165.12" Width="18.06" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Attach Form(s) </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_170" X="12.70" Y="167.86" Width="17.87" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">W-2 here. Also </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_171" X="12.70" Y="170.59" Width="16.32" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">attach Forms </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_172" X="12.70" Y="173.32" Width="12.34" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">W-2G and </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_173" X="12.70" Y="176.06" Width="15.41" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">1099-R if tax </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_174" X="12.70" Y="178.79" Width="16.13" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">was withheld.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_175" X="28.83" Y="178.85" Width="1.37" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_176" X="12.70" Y="182.29" Width="15.18" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">If you did not </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_177" X="12.70" Y="185.02" Width="12.67" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">get a Form </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_178" X="12.70" Y="187.75" Width="10.56" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">W-2, see </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_179" X="12.70" Y="190.49" Width="13.49" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">instructions.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_180" X="33.98" Y="159.39" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1 a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_181" X="40.63" Y="159.45" Width="71.08" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Total amount from Form(s) W-2, box 1 (see instructions) </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_182" X="114.27" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_183" X="118.51" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_184" X="122.74" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_185" X="126.97" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_186" X="131.20" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_187" X="135.44" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_188" X="139.67" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_189" X="143.90" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_190" X="148.13" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_191" X="152.37" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_192" X="156.60" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_193" X="160.83" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_194" X="165.06" Y="159.45" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_195" X="172.36" Y="159.39" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_196" X="35.55" Y="163.62" Width="1.72" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">b</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_197" X="40.63" Y="163.69" Width="74.43" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Household employee wages not reported on Form(s) W-2 .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_198" X="118.51" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_199" X="122.74" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_200" X="126.97" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_201" X="131.20" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_202" X="135.44" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_203" X="139.67" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_204" X="143.90" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_205" X="148.13" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_206" X="152.37" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_207" X="156.60" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_208" X="160.83" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_209" X="165.06" Y="163.69" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_210" X="172.31" Y="163.62" Width="3.29" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1b</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_211" X="35.55" Y="167.85" Width="1.62" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">c</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_212" X="40.63" Y="167.92" Width="65.43" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Tip income not reported on line 1a (see instructions)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_213" X="110.04" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_214" X="114.27" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_215" X="118.51" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_216" X="122.74" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_217" X="126.97" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_218" X="131.20" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_219" X="135.44" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_220" X="139.67" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_221" X="143.90" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_222" X="148.13" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_223" X="152.37" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_224" X="156.60" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_225" X="160.83" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_226" X="165.06" Y="167.92" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_227" X="172.36" Y="167.85" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1c</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_228" X="35.55" Y="172.09" Width="1.72" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">d</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_229" X="40.63" Y="172.15" Width="95.59" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Medicaid waiver payments not reported on Form(s) W-2 (see instructions)  .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_230" X="139.67" Y="172.15" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_231" X="143.90" Y="172.15" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_232" X="148.13" Y="172.15" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_233" X="152.37" Y="172.15" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_234" X="156.60" Y="172.15" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_235" X="160.83" Y="172.15" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_236" X="165.06" Y="172.15" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_237" X="172.31" Y="172.09" Width="3.29" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1d</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_238" X="35.55" Y="176.32" Width="1.62" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">e</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_239" X="40.63" Y="176.38" Width="73.80" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Taxable dependent care benefits from Form 2441, line 26  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_240" X="118.51" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_241" X="122.74" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_242" X="126.97" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_243" X="131.20" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_244" X="135.44" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_245" X="139.67" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_246" X="143.90" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_247" X="148.13" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_248" X="152.37" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_249" X="156.60" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_250" X="160.83" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_251" X="165.06" Y="176.38" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_252" X="172.36" Y="176.32" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1e</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_253" X="35.55" Y="180.55" Width="0.94" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">f</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_254" X="40.63" Y="180.62" Width="79.34" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Employer-provided adoption benefits from Form 8839, line 31  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_255" X="122.74" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_256" X="126.97" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_257" X="131.20" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_258" X="135.44" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_259" X="139.67" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_260" X="143.90" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_261" X="148.13" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_262" X="152.37" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_263" X="156.60" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_264" X="160.83" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_265" X="165.06" Y="180.62" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_266" X="172.70" Y="180.55" Width="2.51" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1f</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_267" X="35.55" Y="184.78" Width="1.72" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">g</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_268" X="40.63" Y="184.85" Width="40.57" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Wages from Form 8919, line 6  .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_269" X="84.65" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_270" X="88.88" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_271" X="93.11" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_272" X="97.35" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_273" X="101.58" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_274" X="105.81" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_275" X="110.04" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_276" X="114.27" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_277" X="118.51" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_278" X="122.74" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_279" X="126.97" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_280" X="131.20" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_281" X="135.44" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_282" X="139.67" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_283" X="143.90" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_284" X="148.13" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_285" X="152.37" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_286" X="156.60" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_287" X="160.83" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_288" X="165.06" Y="184.85" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_289" X="172.31" Y="184.78" Width="3.29" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1g</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_290" X="35.55" Y="189.02" Width="1.67" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">h</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_291" X="40.63" Y="189.12" Width="79.87" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Other earned income (see instructions). Enter type and amount:</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_292" X="172.33" Y="189.02" Width="3.24" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1h</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_293" X="35.55" Y="193.25" Width="0.73" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">i</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_294" X="40.63" Y="193.31" Width="65.96" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Nontaxable combat pay election (see instructions)  .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_295" X="110.04" Y="193.31" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_296" X="114.27" Y="193.31" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_297" X="118.51" Y="193.31" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_298" X="122.74" Y="193.31" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_299" X="126.97" Y="193.31" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_300" X="131.20" Y="193.31" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_301" X="139.79" Y="193.25" Width="2.30" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1i</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_302" X="35.55" Y="197.48" Width="1.46" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">z</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_303" X="40.63" Y="197.55" Width="31.62" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Add lines 1a through 1h  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_304" X="76.18" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_305" X="80.42" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_306" X="84.65" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_307" X="88.88" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_308" X="93.11" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_309" X="97.35" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_310" X="101.58" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_311" X="105.81" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_312" X="110.04" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_313" X="114.27" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_314" X="118.51" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_315" X="122.74" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_316" X="126.97" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_317" X="131.20" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_318" X="135.44" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_319" X="139.67" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_320" X="143.90" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_321" X="148.13" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_322" X="152.37" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_323" X="156.60" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_324" X="160.83" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_325" X="165.06" Y="197.55" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_326" X="172.44" Y="197.48" Width="3.03" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1z</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_327" X="12.70" Y="202.34" Width="16.60" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Attach Sch. B  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_328" X="12.70" Y="205.30" Width="11.80" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">if required.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_329" X="33.95" Y="201.71" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">2a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_330" X="40.63" Y="201.78" Width="27.87" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Tax-exempt interest .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_331" X="71.95" Y="201.78" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_332" X="76.18" Y="201.78" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_333" X="83.48" Y="201.71" Width="3.97" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">2a </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_334" X="119.35" Y="201.71" Width="3.29" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">b  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_335" X="122.65" Y="201.78" Width="21.63" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Taxable interest  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_336" X="148.13" Y="201.78" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_337" X="152.37" Y="201.78" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_338" X="156.60" Y="201.78" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_339" X="160.83" Y="201.78" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_340" X="165.06" Y="201.78" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_341" X="172.31" Y="201.71" Width="4.08" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">2b </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_342" X="33.95" Y="205.95" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">3a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_343" X="40.63" Y="206.01" Width="27.87" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Qualified dividends .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_344" X="71.95" Y="206.01" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_345" X="76.18" Y="206.01" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_346" X="83.48" Y="205.95" Width="3.97" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">3a </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_347" X="119.35" Y="205.95" Width="3.29" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">b  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_348" X="122.65" Y="206.01" Width="26.27" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Ordinary dividends .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_349" X="152.37" Y="206.01" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_350" X="156.60" Y="206.01" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_351" X="160.83" Y="206.01" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_352" X="165.06" Y="206.01" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_353" X="172.31" Y="205.95" Width="4.08" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">3b </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_354" X="35.55" Y="210.18" Width="1.62" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">c</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_355" X="40.63" Y="210.24" Width="53.41" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.8" Color="Black">Check if your child’s dividends are included in</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_356" X="96.50" Y="210.18" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_357" X="104.47" Y="210.24" Width="9.93" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Line 3a </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_358" X="124.43" Y="210.18" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">2</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_359" X="132.40" Y="210.24" Width="9.31" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Line 3b</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_360" X="33.98" Y="214.41" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">4a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_361" X="40.63" Y="214.47" Width="23.64" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">IRA distributions .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_362" X="67.72" Y="214.47" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_363" X="71.95" Y="214.47" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_364" X="76.18" Y="214.47" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_365" X="83.48" Y="214.41" Width="3.97" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">4a </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_366" X="119.35" Y="214.41" Width="3.29" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">b  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_367" X="122.65" Y="214.47" Width="22.04" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Taxable amount .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_368" X="148.13" Y="214.47" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_369" X="152.37" Y="214.47" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_370" X="156.60" Y="214.47" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_371" X="160.83" Y="214.47" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_372" X="165.06" Y="214.47" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_373" X="172.31" Y="214.41" Width="4.08" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">4b </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_374" X="35.55" Y="218.64" Width="1.62" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">c</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_375" X="40.63" Y="218.71" Width="33.24" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Check if (see instructions) </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_376" X="76.18" Y="218.71" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_377" X="80.42" Y="218.71" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_378" X="84.65" Y="218.71" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_379" X="88.88" Y="218.71" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_380" X="93.11" Y="218.71" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_381" X="96.50" Y="218.64" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_382" X="104.47" Y="218.71" Width="10.29" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Rollover</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_383" X="124.43" Y="218.64" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">2</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_384" X="132.40" Y="218.71" Width="6.17" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">QCD</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_385" X="147.29" Y="218.64" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">3</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_386" X="33.98" Y="222.88" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">5a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_387" X="40.63" Y="222.94" Width="32.10" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Pensions and annuities .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_388" X="76.18" Y="222.94" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_389" X="83.48" Y="222.88" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">5a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_390" X="119.35" Y="222.88" Width="3.29" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">b  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_391" X="122.65" Y="222.94" Width="22.04" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Taxable amount .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_392" X="148.13" Y="222.94" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_393" X="152.37" Y="222.94" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_394" X="156.60" Y="222.94" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_395" X="160.83" Y="222.94" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_396" X="165.06" Y="222.94" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_397" X="172.31" Y="222.88" Width="3.29" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">5b</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_398" X="35.55" Y="227.11" Width="1.62" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">c</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_399" X="40.63" Y="227.17" Width="33.24" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Check if (see instructions) </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_400" X="76.18" Y="227.17" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_401" X="80.42" Y="227.17" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_402" X="84.65" Y="227.17" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_403" X="88.88" Y="227.17" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_404" X="93.11" Y="227.17" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_405" X="96.50" Y="227.11" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">1</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_406" X="104.47" Y="227.17" Width="10.29" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Rollover</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_407" X="124.43" Y="227.11" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">2</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_408" X="132.40" Y="227.17" Width="5.80" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">PSO</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_409" X="147.29" Y="227.11" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">3</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_410" X="33.98" Y="231.34" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">6a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_411" X="40.63" Y="231.41" Width="32.10" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Social security benefits .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_412" X="76.18" Y="231.41" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_413" X="83.48" Y="231.34" Width="3.97" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">6a </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_414" X="119.35" Y="231.34" Width="3.29" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">b  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_415" X="122.65" Y="231.41" Width="22.04" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Taxable amount .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_416" X="148.13" Y="231.41" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_417" X="152.37" Y="231.41" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_418" X="156.60" Y="231.41" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_419" X="160.83" Y="231.41" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_420" X="165.06" Y="231.41" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_421" X="172.31" Y="231.34" Width="4.08" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">6b </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_422" X="35.55" Y="235.57" Width="1.62" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">c</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_423" X="40.63" Y="235.64" Width="100.93" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">If you elect to use the lump-sum election method, check here (see instructions)  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_424" X="143.90" Y="235.64" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_425" X="148.13" Y="235.64" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_426" X="152.37" Y="235.64" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_427" X="156.60" Y="235.64" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_428" X="160.83" Y="235.64" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_429" X="35.55" Y="239.80" Width="1.72" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">d</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_430" X="40.63" Y="239.87" Width="122.58" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.8" Color="Black">If you are married filing separately and lived apart from your spouse the entire year (see inst.), check here</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_431" X="33.98" Y="244.04" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">7a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_432" X="40.63" Y="244.10" Width="65.84" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Capital gain or (loss). Attach Schedule D if required  </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_433" X="110.04" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_434" X="114.27" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_435" X="118.51" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_436" X="122.74" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_437" X="126.97" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_438" X="131.20" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_439" X="135.44" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_440" X="139.67" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_441" X="143.90" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_442" X="148.13" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_443" X="152.37" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_444" X="156.60" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_445" X="160.83" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_446" X="165.06" Y="244.10" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_447" X="172.36" Y="244.04" Width="3.19" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">7a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_448" X="35.55" Y="248.27" Width="1.72" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">b</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_449" X="40.63" Y="248.33" Width="11.13" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Check if:</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_450" X="58.20" Y="248.33" Width="30.62" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Schedule D not required</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_451" X="96.29" Y="248.33" Width="45.30" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Includes child’s capital gain or (loss)</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_452" X="33.98" Y="252.50" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">8</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_453" X="40.63" Y="252.57" Width="57.50" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Additional income from Schedule 1, line 10 .</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_454" X="101.58" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_455" X="105.81" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_456" X="110.04" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_457" X="114.27" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_458" X="118.51" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_459" X="122.74" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_460" X="126.97" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_461" X="131.20" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_462" X="135.44" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_463" X="139.67" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_464" X="143.90" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_465" X="148.13" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_466" X="152.37" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_467" X="156.60" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_468" X="160.83" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_469" X="165.06" Y="252.57" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_470" X="173.17" Y="252.50" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">8</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_471" X="33.98" Y="256.73" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">9</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_472" X="40.63" Y="256.80" Width="69.52" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7a, and 8. This is your </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_473" X="110.16" Y="256.73" Width="17.55" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">total income </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_474" X="131.20" Y="256.80" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_475" X="135.44" Y="256.80" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_476" X="139.67" Y="256.80" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_477" X="143.90" Y="256.80" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_478" X="148.13" Y="256.80" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_479" X="152.37" Y="256.80" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_480" X="156.60" Y="256.80" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_481" X="160.83" Y="256.80" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_482" X="165.06" Y="256.80" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_483" X="173.17" Y="256.73" Width="1.57" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">9</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_484" X="32.41" Y="260.97" Width="3.92" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">10 </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_485" X="40.63" Y="261.03" Width="61.26" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Adjustments to income from Schedule 1, line 26 </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_486" X="105.81" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_487" X="110.04" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_488" X="114.27" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_489" X="118.51" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_490" X="122.74" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_491" X="126.97" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_492" X="131.20" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_493" X="135.44" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_494" X="139.67" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_495" X="143.90" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_496" X="148.13" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_497" X="152.37" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_498" X="156.60" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_499" X="160.83" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_500" X="165.06" Y="261.03" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_501" X="172.38" Y="260.97" Width="3.14" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">10</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_502" X="32.41" Y="265.02" Width="4.76" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">11a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_503" X="40.63" Y="265.09" Width="50.64" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">Subtract line 10 from line 9. This is your </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_504" X="91.28" Y="265.02" Width="30.72" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">adjusted gross income</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_505" X="121.99" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_506" X="126.97" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_507" X="131.20" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_508" X="135.44" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_509" X="139.67" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_510" X="143.90" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_511" X="148.13" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_512" X="152.37" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_513" X="156.60" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_514" X="160.83" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_515" X="165.06" Y="265.09" Width="0.78" Height="3.29" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">.</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_516" X="171.57" Y="265.20" Width="4.76" Height="3.37" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="8.0" Color="Black">11a</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_517" X="12.70" Y="269.65" Width="117.27" Height="3.16" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.5" Color="Black">For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_518" X="136.83" Y="269.93" Width="19.07" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Cat. No. 11320B </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_519" X="164.07" Y="269.98" Width="6.45" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">Form </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_520" X="170.52" Y="268.89" Width="7.84" Height="4.21" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="10.0" Color="Black">1040</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_521" X="178.37" Y="269.93" Width="0.69" Height="2.95" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black"> </Span>
+        </Paragraph>
+      </Content>
+    </Object>
+    <Object Type="Text" Name="Import_522" X="179.05" Y="269.98" Width="24.10" Height="2.88" Rotation="0">
+      <Content>
+        <Paragraph>
+          <Span FontName="Arial" FontSize="7.0" Color="Black">(2025) Created 9/5/25</Span>
+        </Paragraph>
+      </Content>
+    </Object>
+  </Objects>
+</GMC_Clipboard>
