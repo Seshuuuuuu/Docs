@@ -1,0 +1,1570 @@
+GMC_Clipboard>
+<Objects>
+<Object Type="Text" Name="Import_Box_1" X="12.32" Y="9.76" Width="2.88" Height="5.76">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Form</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_2" X="15.24" Y="7.27" Width="19.0" Height="10.17">
+<TextContent FontName="Arial" FontSize="24.0" FontColor="Black">1040 </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_3" X="105.1" Y="8.27" Width="8.92" Height="8.9">
+<TextContent FontName="Arial" FontSize="20.0" FontColor="Black">20</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_4" X="114.02" Y="8.54" Width="9.42" Height="8.36">
+<TextContent FontName="Arial" FontSize="20.0" FontColor="Black">25</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_5" X="34.42" Y="11.65" Width="65.69" Height="5.01">
+<TextContent FontName="Arial" FontSize="12.0" FontColor="Black">U.S. Individual Income Tax Return </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_6" X="34.42" Y="9.04" Width="52.13" Height="2.47">
+<TextContent FontName="Arial" FontSize="6.0" FontColor="Black">Department of the Treasury—Internal Revenue Service </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_7" X="125.67" Y="13.17" Width="22.92" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">OMB No. 1545-0074</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_8" X="152.43" Y="13.6" Width="48.72" Height="2.47">
+<TextContent FontName="Arial" FontSize="6.0" FontColor="Black">IRS Use Only—Do not write or staple in this space. </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_9" X="12.7" Y="17.58" Width="67.87" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">For the year Jan. 1–Dec. 31, 2025, or other tax year beginning </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_10" X="112.26" Y="17.58" Width="16.42" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">, 2025, ending </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_11" X="160.69" Y="17.58" Width="4.8" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">, 20 </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_12" X="174.09" Y="17.58" Width="28.72" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">See separate instructions.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_13" X="16.37" Y="21.95" Width="36.94" Height="2.88">
+<TextContent FontName="Arial" FontSize="6.8" FontColor="Black">Filed pursuant to section 301.9100-2</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_14" X="58.41" Y="21.95" Width="14.86" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Combat zone</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_15" X="135.86" Y="21.95" Width="10.84" Height="2.88">
+<TextContent FontName="Arial" FontSize="6.9" FontColor="Black">Deceased</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_16" X="146.7" Y="21.95" Width="0.94" Height="2.91">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_17" X="147.64" Y="21.99" Width="7.73" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">MM </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_18" X="155.37" Y="21.99" Width="0.34" Height="2.88">
+<TextContent FontName="Arial" FontSize="4.9" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_19" X="155.72" Y="21.99" Width="6.91" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">DD </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_20" X="162.62" Y="21.99" Width="0.34" Height="2.88">
+<TextContent FontName="Arial" FontSize="4.9" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_21" X="162.97" Y="21.99" Width="6.4" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">YYYY</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_22" X="153.07" Y="21.99" Width="0.82" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">/</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_23" X="160.69" Y="21.99" Width="0.82" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">/</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_24" X="171.38" Y="21.99" Width="8.41" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Spouse</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_25" X="179.79" Y="21.99" Width="0.86" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_26" X="180.65" Y="21.99" Width="7.73" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">MM </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_27" X="188.39" Y="21.99" Width="0.34" Height="2.88">
+<TextContent FontName="Arial" FontSize="4.9" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_28" X="188.73" Y="21.99" Width="6.91" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">DD </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_29" X="195.64" Y="21.99" Width="0.34" Height="2.88">
+<TextContent FontName="Arial" FontSize="4.9" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_30" X="195.98" Y="21.99" Width="6.4" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">YYYY</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_31" X="186.08" Y="21.99" Width="0.82" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">/</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_32" X="193.7" Y="21.99" Width="0.82" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">/</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_33" X="16.37" Y="26.18" Width="6.17" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Other</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_34" X="12.7" Y="30.1" Width="36.86" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Your first name and middle initial </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_35" X="90.29" Y="30.1" Width="12.21" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Last name </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_36" X="166.47" Y="30.04" Width="33.69" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Your social security number </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_37" X="12.7" Y="38.56" Width="56.2" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">If joint return, spouse’s first name and middle initial</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_38" X="90.29" Y="38.56" Width="12.21" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Last name </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_39" X="166.47" Y="38.51" Width="37.21" Height="2.95">
+<TextContent FontName="Arial" FontSize="6.9" FontColor="Black">Spouse’s social security number </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_40" X="12.7" Y="47.03" Width="84.33" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Home address (number and street). If you have a P.O. box, see instructions. </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_41" X="148.7" Y="47.03" Width="9.38" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Apt. no. </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_42" X="12.7" Y="55.49" Width="94.56" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">City, town, or post office. If you have a foreign address, also complete spaces below. </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_43" X="118.23" Y="55.49" Width="5.81" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">State</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_44" X="141.08" Y="55.49" Width="9.97" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">ZIP code</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_45" X="12.7" Y="63.96" Width="51.6" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Foreign country name </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_46" X="80.13" Y="63.96" Width="85.0" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Foreign province/state/county Foreign postal code </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_47" X="165.77" Y="46.69" Width="37.18" Height="2.82">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Check here if your main home, and your </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_48" X="165.77" Y="49.33" Width="34.81" Height="2.82">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">spouse’s if filing a joint return, was in </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_49" X="165.77" Y="51.98" Width="32.96" Height="2.82">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">the U.S. for more than half of 2025. </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_50" X="166.67" Y="55.06" Width="34.87" Height="3.34">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Presidential Election Campaign</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_51" X="165.77" Y="58.1" Width="37.78" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Check here if you, or your spouse </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_52" X="165.77" Y="60.57" Width="34.3" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">if filing jointly, want $3 to go to </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_53" X="165.77" Y="63.04" Width="36.14" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">this fund. Checking a box below </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_54" X="165.77" Y="65.51" Width="37.5" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">will not change your tax or refund.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_55" X="173.95" Y="68.48" Width="5.31" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">You </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_56" X="189.19" Y="68.48" Width="9.51" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Spouse </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_57" X="12.7" Y="72.54" Width="17.49" Height="4.18">
+<TextContent FontName="Arial" FontSize="10.0" FontColor="Black">Filing Status</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_58" X="12.7" Y="78.42" Width="13.72" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Check only </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_59" X="12.7" Y="81.15" Width="10.33" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">one box. </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_60" X="38.8" Y="72.69" Width="8.57" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Single </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_61" X="38.8" Y="76.92" Width="62.87" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Married filing jointly (even if only one had income) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_62" X="38.8" Y="81.15" Width="74.46" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Married filing separately (MFS). Enter spouse’s SSN above </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_63" X="38.8" Y="85.03" Width="24.1" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">and full name here:</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_64" X="127.68" Y="72.69" Width="32.4" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Head of household (HOH)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_65" X="127.68" Y="76.92" Width="42.54" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Qualifying surviving spouse (QSS)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_66" X="127.68" Y="80.48" Width="76.05" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">If you checked the HOH or QSS box, enter the child’s name </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_67" X="127.68" Y="83.48" Width="71.76" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">if the qualifying person is a child but not your dependent:</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_68" X="38.8" Y="90.94" Width="161.49" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">If treating a nonresident alien or dual-status alien spouse as a U.S. resident for the entire tax year, check the box and enter their </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_69" X="38.8" Y="94.56" Width="70.19" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">name (see instructions and attach statement if required):</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_70" X="12.7" Y="98.94" Width="19.25" Height="4.18">
+<TextContent FontName="Arial" FontSize="10.0" FontColor="Black">Digital Assets</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_71" X="34.42" Y="98.37" Width="145.19" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">At any time during 2025, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell, </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_72" X="34.43" Y="101.19" Width="136.8" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">exchange, or otherwise dispose of a digital asset (or a financial interest in a digital asset)? (See instructions.) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_73" X="173.53" Y="101.19" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_74" X="177.77" Y="101.19" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_75" X="186.65" Y="101.02" Width="5.8" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Yes </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_76" X="199.35" Y="101.02" Width="3.81" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">No</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_77" X="12.7" Y="105.29" Width="16.59" Height="4.18">
+<TextContent FontName="Arial" FontSize="10.0" FontColor="Black">Dependents</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_78" X="12.7" Y="110.2" Width="18.66" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(see instructions)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_79" X="12.7" Y="115.76" Width="9.02" Height="3.08">
+<TextContent FontName="Arial" FontSize="7.5" FontColor="Black">If more </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_80" X="12.7" Y="118.67" Width="11.32" Height="3.08">
+<TextContent FontName="Arial" FontSize="7.5" FontColor="Black">than four </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_81" X="12.7" Y="121.58" Width="15.54" Height="3.08">
+<TextContent FontName="Arial" FontSize="7.5" FontColor="Black">dependents, </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_82" X="12.7" Y="124.49" Width="19.04" Height="3.08">
+<TextContent FontName="Arial" FontSize="7.5" FontColor="Black">see instructions </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_83" X="12.7" Y="127.4" Width="13.04" Height="3.08">
+<TextContent FontName="Arial" FontSize="7.5" FontColor="Black">and check </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_84" X="12.7" Y="130.31" Width="5.93" Height="3.08">
+<TextContent FontName="Arial" FontSize="7.5" FontColor="Black">here </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_85" X="21.16" Y="130.31" Width="0.74" Height="3.08">
+<TextContent FontName="Arial" FontSize="7.5" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_86" X="25.39" Y="130.31" Width="0.74" Height="3.08">
+<TextContent FontName="Arial" FontSize="7.5" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_87" X="62.36" Y="105.34" Width="14.95" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Dependent 1</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_88" X="100.45" Y="105.34" Width="14.95" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Dependent 2</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_89" X="138.54" Y="105.34" Width="14.95" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Dependent 3</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_90" X="176.63" Y="105.34" Width="14.95" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Dependent 4</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_91" X="33.01" Y="109.44" Width="3.52" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(1) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_92" X="36.53" Y="109.5" Width="11.62" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">First name</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_93" X="33.01" Y="113.67" Width="2.83" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(2)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_94" X="35.85" Y="113.73" Width="12.21" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black"> Last name</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_95" X="33.01" Y="117.9" Width="3.52" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(3) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_96" X="36.53" Y="117.96" Width="4.98" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">SSN</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_97" X="33.01" Y="122.14" Width="3.52" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(4) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_98" X="36.53" Y="122.19" Width="13.49" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Relationship</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_99" X="33.01" Y="126.03" Width="2.83" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(5)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_100" X="35.85" Y="126.08" Width="0.69" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_101" X="36.53" Y="126.08" Width="13.66" Height="2.88">
+<TextContent FontName="Arial" FontSize="6.8" FontColor="Black">Check if lived</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_102" X="50.19" Y="126.08" Width="0.69" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_103" X="33.01" Y="128.64" Width="16.32" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">with you more </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_104" X="33.01" Y="131.2" Width="17.21" Height="2.88">
+<TextContent FontName="Arial" FontSize="6.9" FontColor="Black">than half of 2025</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_105" X="54.82" Y="126.68" Width="2.88" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(a)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_106" X="63.84" Y="126.74" Width="4.16" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Yes</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_107" X="54.73" Y="130.91" Width="2.97" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(b)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_108" X="63.84" Y="130.97" Width="16.65" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">And in the U.S.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_109" X="92.91" Y="126.68" Width="2.88" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(a)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_110" X="101.93" Y="126.74" Width="4.16" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Yes</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_111" X="92.82" Y="130.91" Width="2.97" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(b)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_112" X="101.93" Y="130.97" Width="16.65" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">And in the U.S.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_113" X="131.01" Y="126.68" Width="2.88" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(a)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_114" X="140.02" Y="126.74" Width="4.16" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Yes</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_115" X="130.91" Y="130.91" Width="2.97" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(b)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_116" X="140.02" Y="130.97" Width="16.65" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">And in the U.S.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_117" X="169.1" Y="126.68" Width="2.88" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(a)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_118" X="178.11" Y="126.74" Width="4.16" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Yes</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_119" X="169.01" Y="130.91" Width="2.97" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(b)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_120" X="178.11" Y="130.97" Width="16.65" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">And in the U.S.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_121" X="33.01" Y="134.83" Width="2.83" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(6)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_122" X="35.85" Y="134.89" Width="9.74" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black"> Check if</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_123" X="56.29" Y="134.5" Width="10.29" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Full-time </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_124" X="56.29" Y="136.61" Width="8.33" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">student</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_125" X="74.07" Y="134.5" Width="14.5" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Permanently </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_126" X="74.07" Y="136.61" Width="12.16" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">and totally </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_127" X="74.07" Y="138.73" Width="9.37" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">disabled</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_128" X="94.38" Y="134.5" Width="10.29" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Full-time </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_129" X="94.38" Y="136.61" Width="8.33" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">student</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_130" X="112.16" Y="134.5" Width="14.5" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Permanently </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_131" X="112.16" Y="136.61" Width="12.16" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">and totally </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_132" X="112.16" Y="138.73" Width="9.37" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">disabled</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_133" X="132.47" Y="134.5" Width="10.29" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Full-time </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_134" X="132.47" Y="136.61" Width="8.33" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">student</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_135" X="150.25" Y="134.5" Width="14.5" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Permanently </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_136" X="150.25" Y="136.61" Width="12.16" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">and totally </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_137" X="150.25" Y="138.73" Width="9.37" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">disabled</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_138" X="170.57" Y="134.5" Width="10.29" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Full-time </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_139" X="170.57" Y="136.61" Width="8.33" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">student</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_140" X="188.34" Y="134.5" Width="14.5" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Permanently </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_141" X="188.34" Y="136.61" Width="12.16" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">and totally </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_142" X="188.34" Y="138.73" Width="9.37" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">disabled</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_143" X="33.01" Y="142.24" Width="2.83" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(7)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_144" X="35.85" Y="142.3" Width="8.64" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black"> Credits</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_145" X="56.29" Y="141.9" Width="10.47" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Child tax </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_146" X="56.29" Y="144.02" Width="6.26" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">credit</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_147" X="74.07" Y="141.9" Width="11.06" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Credit for </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_148" X="74.07" Y="144.02" Width="6.4" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">other </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_149" X="74.07" Y="146.13" Width="13.13" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">dependents</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_150" X="94.38" Y="141.9" Width="10.47" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Child tax </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_151" X="94.38" Y="144.02" Width="6.26" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">credit</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_152" X="112.16" Y="141.9" Width="11.06" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Credit for </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_153" X="112.16" Y="144.02" Width="6.4" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">other </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_154" X="112.16" Y="146.13" Width="13.13" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">dependents</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_155" X="132.47" Y="141.9" Width="10.47" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Child tax </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_156" X="132.47" Y="144.02" Width="6.26" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">credit</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_157" X="150.25" Y="141.9" Width="11.06" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Credit for </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_158" X="150.25" Y="144.02" Width="6.4" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">other </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_159" X="150.25" Y="146.13" Width="13.13" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">dependents</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_160" X="170.57" Y="141.9" Width="10.47" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Child tax </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_161" X="170.57" Y="144.02" Width="6.26" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">credit</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_162" X="188.34" Y="141.9" Width="11.06" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Credit for </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_163" X="188.34" Y="144.02" Width="6.4" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">other </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_164" X="188.34" Y="146.13" Width="13.13" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">dependents</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_165" X="38.09" Y="149.38" Width="160.29" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Check if your filing status is MFS or HOH and you lived apart from your spouse for the last 6 months of 2025, or you are legally </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_166" X="38.09" Y="152.28" Width="164.15" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">separated according to your state law under a written separation agreement or a decree of separate maintenance and you did not </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_167" X="38.09" Y="155.19" Width="78.87" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">live in the same household as your spouse at the end of 2025. </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_168" X="12.7" Y="159.17" Width="12.27" Height="4.6">
+<TextContent FontName="Arial" FontSize="11.0" FontColor="Black">Income </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_169" X="12.7" Y="165.12" Width="18.06" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Attach Form(s) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_170" X="12.7" Y="167.86" Width="17.87" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">W-2 here. Also </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_171" X="12.7" Y="170.59" Width="16.32" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">attach Forms </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_172" X="12.7" Y="173.32" Width="12.34" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">W-2G and </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_173" X="12.7" Y="176.06" Width="15.41" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">1099-R if tax </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_174" X="12.7" Y="178.79" Width="16.13" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">was withheld.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_175" X="28.83" Y="178.85" Width="1.37" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_176" X="12.7" Y="182.29" Width="15.18" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">If you did not </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_177" X="12.7" Y="185.02" Width="12.67" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">get a Form </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_178" X="12.7" Y="187.75" Width="10.56" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">W-2, see </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_179" X="12.7" Y="190.49" Width="13.49" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">instructions.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_180" X="33.98" Y="159.39" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1 a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_181" X="40.63" Y="159.45" Width="71.08" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Total amount from Form(s) W-2, box 1 (see instructions) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_182" X="114.27" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_183" X="118.51" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_184" X="122.74" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_185" X="126.97" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_186" X="131.2" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_187" X="135.44" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_188" X="139.67" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_189" X="143.9" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_190" X="148.13" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_191" X="152.37" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_192" X="156.6" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_193" X="160.83" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_194" X="165.06" Y="159.45" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_195" X="172.36" Y="159.39" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_196" X="35.55" Y="163.62" Width="1.72" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">b</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_197" X="40.63" Y="163.69" Width="74.43" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Household employee wages not reported on Form(s) W-2 .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_198" X="118.51" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_199" X="122.74" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_200" X="126.97" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_201" X="131.2" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_202" X="135.44" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_203" X="139.67" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_204" X="143.9" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_205" X="148.13" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_206" X="152.37" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_207" X="156.6" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_208" X="160.83" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_209" X="165.06" Y="163.69" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_210" X="172.31" Y="163.62" Width="3.29" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1b</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_211" X="35.55" Y="167.85" Width="1.62" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">c</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_212" X="40.63" Y="167.92" Width="65.43" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Tip income not reported on line 1a (see instructions)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_213" X="110.04" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_214" X="114.27" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_215" X="118.51" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_216" X="122.74" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_217" X="126.97" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_218" X="131.2" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_219" X="135.44" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_220" X="139.67" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_221" X="143.9" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_222" X="148.13" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_223" X="152.37" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_224" X="156.6" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_225" X="160.83" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_226" X="165.06" Y="167.92" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_227" X="172.36" Y="167.85" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1c</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_228" X="35.55" Y="172.09" Width="1.72" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">d</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_229" X="40.63" Y="172.15" Width="95.59" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Medicaid waiver payments not reported on Form(s) W-2 (see instructions) .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_230" X="139.67" Y="172.15" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_231" X="143.9" Y="172.15" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_232" X="148.13" Y="172.15" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_233" X="152.37" Y="172.15" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_234" X="156.6" Y="172.15" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_235" X="160.83" Y="172.15" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_236" X="165.06" Y="172.15" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_237" X="172.31" Y="172.09" Width="3.29" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1d</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_238" X="35.55" Y="176.32" Width="1.62" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">e</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_239" X="40.63" Y="176.38" Width="73.8" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Taxable dependent care benefits from Form 2441, line 26 </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_240" X="118.51" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_241" X="122.74" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_242" X="126.97" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_243" X="131.2" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_244" X="135.44" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_245" X="139.67" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_246" X="143.9" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_247" X="148.13" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_248" X="152.37" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_249" X="156.6" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_250" X="160.83" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_251" X="165.06" Y="176.38" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_252" X="172.36" Y="176.32" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1e</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_253" X="35.55" Y="180.55" Width="0.94" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">f</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_254" X="40.63" Y="180.62" Width="79.34" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Employer-provided adoption benefits from Form 8839, line 31 </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_255" X="122.74" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_256" X="126.97" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_257" X="131.2" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_258" X="135.44" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_259" X="139.67" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_260" X="143.9" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_261" X="148.13" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_262" X="152.37" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_263" X="156.6" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_264" X="160.83" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_265" X="165.06" Y="180.62" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_266" X="172.7" Y="180.55" Width="2.51" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1f</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_267" X="35.55" Y="184.78" Width="1.72" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">g</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_268" X="40.63" Y="184.85" Width="40.57" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Wages from Form 8919, line 6 .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_269" X="84.65" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_270" X="88.88" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_271" X="93.11" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_272" X="97.35" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_273" X="101.58" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_274" X="105.81" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_275" X="110.04" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_276" X="114.27" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_277" X="118.51" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_278" X="122.74" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_279" X="126.97" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_280" X="131.2" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_281" X="135.44" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_282" X="139.67" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_283" X="143.9" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_284" X="148.13" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_285" X="152.37" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_286" X="156.6" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_287" X="160.83" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_288" X="165.06" Y="184.85" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_289" X="172.31" Y="184.78" Width="3.29" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1g</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_290" X="35.55" Y="189.02" Width="1.67" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">h</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_291" X="40.63" Y="189.12" Width="79.87" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Other earned income (see instructions). Enter type and amount:</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_292" X="172.33" Y="189.02" Width="3.24" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1h</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_293" X="35.55" Y="193.25" Width="0.73" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">i</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_294" X="40.63" Y="193.31" Width="65.96" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Nontaxable combat pay election (see instructions) .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_295" X="110.04" Y="193.31" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_296" X="114.27" Y="193.31" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_297" X="118.51" Y="193.31" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_298" X="122.74" Y="193.31" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_299" X="126.97" Y="193.31" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_300" X="131.2" Y="193.31" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_301" X="139.79" Y="193.25" Width="2.3" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1i</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_302" X="35.55" Y="197.48" Width="1.46" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">z</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_303" X="40.63" Y="197.55" Width="31.62" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Add lines 1a through 1h </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_304" X="76.18" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_305" X="80.42" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_306" X="84.65" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_307" X="88.88" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_308" X="93.11" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_309" X="97.35" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_310" X="101.58" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_311" X="105.81" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_312" X="110.04" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_313" X="114.27" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_314" X="118.51" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_315" X="122.74" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_316" X="126.97" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_317" X="131.2" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_318" X="135.44" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_319" X="139.67" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_320" X="143.9" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_321" X="148.13" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_322" X="152.37" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_323" X="156.6" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_324" X="160.83" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_325" X="165.06" Y="197.55" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_326" X="172.44" Y="197.48" Width="3.03" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1z</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_327" X="12.7" Y="202.34" Width="16.6" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Attach Sch. B </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_328" X="12.7" Y="205.3" Width="11.8" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">if required.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_329" X="33.95" Y="201.71" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">2a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_330" X="40.63" Y="201.78" Width="27.87" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Tax-exempt interest .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_331" X="71.95" Y="201.78" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_332" X="76.18" Y="201.78" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_333" X="83.48" Y="201.71" Width="3.97" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">2a </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_334" X="119.35" Y="201.71" Width="3.29" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">b </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_335" X="122.65" Y="201.78" Width="21.63" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Taxable interest </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_336" X="148.13" Y="201.78" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_337" X="152.37" Y="201.78" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_338" X="156.6" Y="201.78" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_339" X="160.83" Y="201.78" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_340" X="165.06" Y="201.78" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_341" X="172.31" Y="201.71" Width="4.08" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">2b </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_342" X="33.95" Y="205.95" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">3a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_343" X="40.63" Y="206.01" Width="27.87" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Qualified dividends .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_344" X="71.95" Y="206.01" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_345" X="76.18" Y="206.01" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_346" X="83.48" Y="205.95" Width="3.97" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">3a </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_347" X="119.35" Y="205.95" Width="3.29" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">b </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_348" X="122.65" Y="206.01" Width="26.27" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Ordinary dividends .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_349" X="152.37" Y="206.01" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_350" X="156.6" Y="206.01" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_351" X="160.83" Y="206.01" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_352" X="165.06" Y="206.01" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_353" X="172.31" Y="205.95" Width="4.08" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">3b </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_354" X="35.55" Y="210.18" Width="1.62" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">c</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_355" X="40.63" Y="210.24" Width="53.41" Height="3.29">
+<TextContent FontName="Arial" FontSize="7.8" FontColor="Black">Check if your child’s dividends are included in</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_356" X="96.5" Y="210.18" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_357" X="104.47" Y="210.24" Width="9.93" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Line 3a </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_358" X="124.43" Y="210.18" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">2</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_359" X="132.4" Y="210.24" Width="9.31" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Line 3b</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_360" X="33.98" Y="214.41" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">4a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_361" X="40.63" Y="214.47" Width="23.64" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">IRA distributions .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_362" X="67.72" Y="214.47" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_363" X="71.95" Y="214.47" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_364" X="76.18" Y="214.47" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_365" X="83.48" Y="214.41" Width="3.97" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">4a </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_366" X="119.35" Y="214.41" Width="3.29" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">b </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_367" X="122.65" Y="214.47" Width="22.04" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Taxable amount .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_368" X="148.13" Y="214.47" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_369" X="152.37" Y="214.47" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_370" X="156.6" Y="214.47" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_371" X="160.83" Y="214.47" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_372" X="165.06" Y="214.47" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_373" X="172.31" Y="214.41" Width="4.08" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">4b </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_374" X="35.55" Y="218.64" Width="1.62" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">c</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_375" X="40.63" Y="218.71" Width="33.24" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Check if (see instructions) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_376" X="76.18" Y="218.71" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_377" X="80.42" Y="218.71" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_378" X="84.65" Y="218.71" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_379" X="88.88" Y="218.71" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_380" X="93.11" Y="218.71" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_381" X="96.5" Y="218.64" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_382" X="104.47" Y="218.71" Width="10.29" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Rollover</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_383" X="124.43" Y="218.64" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">2</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_384" X="132.4" Y="218.71" Width="6.17" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">QCD</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_385" X="147.29" Y="218.64" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">3</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_386" X="33.98" Y="222.88" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">5a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_387" X="40.63" Y="222.94" Width="32.1" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Pensions and annuities .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_388" X="76.18" Y="222.94" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_389" X="83.48" Y="222.88" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">5a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_390" X="119.35" Y="222.88" Width="3.29" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">b </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_391" X="122.65" Y="222.94" Width="22.04" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Taxable amount .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_392" X="148.13" Y="222.94" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_393" X="152.37" Y="222.94" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_394" X="156.6" Y="222.94" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_395" X="160.83" Y="222.94" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_396" X="165.06" Y="222.94" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_397" X="172.31" Y="222.88" Width="3.29" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">5b</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_398" X="35.55" Y="227.11" Width="1.62" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">c</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_399" X="40.63" Y="227.17" Width="33.24" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Check if (see instructions) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_400" X="76.18" Y="227.17" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_401" X="80.42" Y="227.17" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_402" X="84.65" Y="227.17" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_403" X="88.88" Y="227.17" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_404" X="93.11" Y="227.17" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_405" X="96.5" Y="227.11" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">1</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_406" X="104.47" Y="227.17" Width="10.29" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Rollover</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_407" X="124.43" Y="227.11" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">2</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_408" X="132.4" Y="227.17" Width="5.8" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">PSO</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_409" X="147.29" Y="227.11" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">3</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_410" X="33.98" Y="231.34" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">6a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_411" X="40.63" Y="231.41" Width="32.1" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Social security benefits .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_412" X="76.18" Y="231.41" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_413" X="83.48" Y="231.34" Width="3.97" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">6a </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_414" X="119.35" Y="231.34" Width="3.29" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">b </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_415" X="122.65" Y="231.41" Width="22.04" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Taxable amount .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_416" X="148.13" Y="231.41" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_417" X="152.37" Y="231.41" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_418" X="156.6" Y="231.41" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_419" X="160.83" Y="231.41" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_420" X="165.06" Y="231.41" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_421" X="172.31" Y="231.34" Width="4.08" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">6b </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_422" X="35.55" Y="235.57" Width="1.62" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">c</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_423" X="40.63" Y="235.64" Width="100.93" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">If you elect to use the lump-sum election method, check here (see instructions) </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_424" X="143.9" Y="235.64" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_425" X="148.13" Y="235.64" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_426" X="152.37" Y="235.64" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_427" X="156.6" Y="235.64" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_428" X="160.83" Y="235.64" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_429" X="35.55" Y="239.8" Width="1.72" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">d</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_430" X="40.63" Y="239.87" Width="122.58" Height="3.29">
+<TextContent FontName="Arial" FontSize="7.8" FontColor="Black">If you are married filing separately and lived apart from your spouse the entire year (see inst.), check here</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_431" X="33.98" Y="244.04" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">7a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_432" X="40.63" Y="244.1" Width="65.84" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Capital gain or (loss). Attach Schedule D if required </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_433" X="110.04" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_434" X="114.27" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_435" X="118.51" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_436" X="122.74" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_437" X="126.97" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_438" X="131.2" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_439" X="135.44" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_440" X="139.67" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_441" X="143.9" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_442" X="148.13" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_443" X="152.37" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_444" X="156.6" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_445" X="160.83" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_446" X="165.06" Y="244.1" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_447" X="172.36" Y="244.04" Width="3.19" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">7a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_448" X="35.55" Y="248.27" Width="1.72" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">b</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_449" X="40.63" Y="248.33" Width="11.13" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Check if:</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_450" X="58.2" Y="248.33" Width="30.62" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Schedule D not required</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_451" X="96.29" Y="248.33" Width="45.3" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Includes child’s capital gain or (loss)</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_452" X="33.98" Y="252.5" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">8</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_453" X="40.63" Y="252.57" Width="57.5" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Additional income from Schedule 1, line 10 .</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_454" X="101.58" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_455" X="105.81" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_456" X="110.04" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_457" X="114.27" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_458" X="118.51" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_459" X="122.74" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_460" X="126.97" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_461" X="131.2" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_462" X="135.44" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_463" X="139.67" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_464" X="143.9" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_465" X="148.13" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_466" X="152.37" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_467" X="156.6" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_468" X="160.83" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_469" X="165.06" Y="252.57" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_470" X="173.17" Y="252.5" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">8</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_471" X="33.98" Y="256.73" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">9</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_472" X="40.63" Y="256.8" Width="69.52" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7a, and 8. This is your </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_473" X="110.16" Y="256.73" Width="17.55" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">total income </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_474" X="131.2" Y="256.8" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_475" X="135.44" Y="256.8" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_476" X="139.67" Y="256.8" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_477" X="143.9" Y="256.8" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_478" X="148.13" Y="256.8" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_479" X="152.37" Y="256.8" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_480" X="156.6" Y="256.8" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_481" X="160.83" Y="256.8" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_482" X="165.06" Y="256.8" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_483" X="173.17" Y="256.73" Width="1.57" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">9</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_484" X="32.41" Y="260.97" Width="3.92" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">10 </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_485" X="40.63" Y="261.03" Width="61.26" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Adjustments to income from Schedule 1, line 26 </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_486" X="105.81" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_487" X="110.04" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_488" X="114.27" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_489" X="118.51" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_490" X="122.74" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_491" X="126.97" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_492" X="131.2" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_493" X="135.44" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_494" X="139.67" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_495" X="143.9" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_496" X="148.13" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_497" X="152.37" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_498" X="156.6" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_499" X="160.83" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_500" X="165.06" Y="261.03" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_501" X="172.38" Y="260.97" Width="3.14" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">10</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_502" X="32.41" Y="265.02" Width="4.76" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">11a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_503" X="40.63" Y="265.09" Width="50.64" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">Subtract line 10 from line 9. This is your </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_504" X="91.28" Y="265.02" Width="30.72" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">adjusted gross income</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_505" X="121.99" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_506" X="126.97" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_507" X="131.2" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_508" X="135.44" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_509" X="139.67" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_510" X="143.9" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_511" X="148.13" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_512" X="152.37" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_513" X="156.6" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_514" X="160.83" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_515" X="165.06" Y="265.09" Width="0.78" Height="3.29">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">.</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_516" X="171.57" Y="265.2" Width="4.76" Height="3.37">
+<TextContent FontName="Arial" FontSize="8.0" FontColor="Black">11a</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_517" X="12.7" Y="269.65" Width="117.27" Height="3.16">
+<TextContent FontName="Arial" FontSize="7.5" FontColor="Black">For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_518" X="136.83" Y="269.93" Width="19.07" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Cat. No. 11320B </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_519" X="164.07" Y="269.98" Width="6.45" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">Form </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_520" X="170.52" Y="268.89" Width="7.84" Height="4.21">
+<TextContent FontName="Arial" FontSize="10.0" FontColor="Black">1040</TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_521" X="178.37" Y="269.93" Width="0.69" Height="2.95">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black"> </TextContent>
+</Object>
+<Object Type="Text" Name="Import_Box_522" X="179.05" Y="269.98" Width="24.1" Height="2.88">
+<TextContent FontName="Arial" FontSize="7.0" FontColor="Black">(2025) Created 9/5/25</TextContent>
+</Object>
+</Objects>
+</GMC_Clipboard>
